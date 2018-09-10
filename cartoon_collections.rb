@@ -7,6 +7,8 @@ end
 end
 
 def summon_captain_planet(array)
+  planeteer_calls = []
+  
   array.each do |ele|
     ele.map
 end
