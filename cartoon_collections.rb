@@ -14,7 +14,8 @@ end
 return planeteer_calls
 end
 def long_planeteer_calls(array)
-  array.any? do 
+  array.any? do |word|
+    
   
   # Your code here
 end
